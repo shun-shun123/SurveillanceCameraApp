@@ -31,3 +31,6 @@
 * :sunny:人の顔を録画した動画を、人物情報とともにサーバに送る
 * :cloud:POSTで送られた画像に対して人を検知する
 * :cloud:人がいるのならTrue, いないならFalseを返す
+
+# 使用ライブラリ・アセット
+* [UnityNativeCameraPlugin](https://github.com/yasirkula/UnityNativeCamera)
